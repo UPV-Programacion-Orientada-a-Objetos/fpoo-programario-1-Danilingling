@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo;
+package edu.upvictoria.fpoo.Problemario;
 
 import java.io.BufferedReader;
 import java.io.IOException;
