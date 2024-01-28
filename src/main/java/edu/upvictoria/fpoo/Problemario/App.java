@@ -150,6 +150,36 @@ public class App {
                                     System.out.println(" ");
                                     Thread.sleep(2000L);
                                     break;
+                                case 20:
+                                    P20.IP20();
+                                    System.out.println(" ");
+                                    Thread.sleep(2000L);
+                                    break;
+                                case 21:
+                                    P21.IP21();
+                                    System.out.println(" ");
+                                    Thread.sleep(2000L);
+                                    break;
+                                case 22:
+                                    P22.IP22();
+                                    System.out.println(" ");
+                                    Thread.sleep(2000L);
+                                    break;
+                                case 23:
+                                    P23.IP23();
+                                    System.out.println(" ");
+                                    Thread.sleep(2000L);
+                                    break;
+                                case 24:
+                                    P24.IP24();
+                                    System.out.println(" ");
+                                    Thread.sleep(2000L);
+                                    break;
+                                case 25:
+                                    P25.IP25();
+                                    System.out.println(" ");
+                                    Thread.sleep(2000L);
+                                    break;
                                 default:
                                     if (ejercicio == 26) {
                                         b = false;

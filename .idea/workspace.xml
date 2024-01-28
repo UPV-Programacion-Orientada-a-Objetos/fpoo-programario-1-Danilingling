@@ -5,28 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problemario/P20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/upvictoria/fpoo/P9.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,39 +49,40 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bX8DYXVa42acxwgQKP4jIzCriF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/danilingling/Escritorio/Programacion Orientada a Objetos/git-test-Danilingling/POO/fpoo-programario-1-Danilingling",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/tmp/programario_1/programario_uno/src/main/java/edu/upvictoria/fpoo/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/danilingling/Escritorio/Programacion Orientada a Objetos/git-test-Danilingling/POO/fpoo-programario-1-Danilingling&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/tmp/programario_1/programario_uno/src/main/java/edu/upvictoria/fpoo/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn exec:java" />
@@ -88,7 +97,9 @@
       <option name="presentableId" value="Default" />
       <updated>1685063768396</updated>
       <workItem from="1685063769814" duration="1903000" />
-      <workItem from="1706349944813" duration="775000" />
+      <workItem from="1706349944813" duration="1007000" />
+      <workItem from="1706380368416" duration="3419000" />
+      <workItem from="1706407441433" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>
